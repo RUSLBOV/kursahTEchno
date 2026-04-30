@@ -297,4 +297,5 @@ SLA на уровне 99,99%.
 | Testcontainers | Интеграционные тесты | Запуск реальных зависимостей (DB, Redis) в Docker для тестов |#   k u r s a h T E c h n o  
  #   k u r s a h T E c h n o  
  #   k u r s a h T E c h n o  
+ #   k u r s a h T E c h n o  
  
