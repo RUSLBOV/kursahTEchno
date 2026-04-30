@@ -18,6 +18,7 @@
    * https://developers.google.com/identity/protocols/oauth2
    * https://developers.google.com/drive/api/guides/share
    * https://developers.google.com/drive/api/guides/preview
+   * https://sqmagazine.co.uk/google-drive-statistics/
 ## 2. Расчет нагрузки
    ### 2.1 Продуктовые метрики
 | Метрика | Значение | Метод расчёта / Обоснование |
